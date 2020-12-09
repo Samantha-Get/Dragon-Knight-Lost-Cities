@@ -1,6 +1,5 @@
-# Dragon-Knight-Lost-Cities
-Lost Cities is a Heavy Mod version of Dragon Knight
-
+# Lost-Cities
+Heavy Mod Version of Dragon Knight
 Lost Cities
 Readme
 
@@ -36,8 +35,7 @@ https://www.michaelmccart.com/downloads/lc3133-Install.zip  4KBs
 5. To login: Admin User: SirMichael     Admin Passwood:  lc3133
 6. Enjoy the game.
 
-## COPYRIGHT ##
-The Lost Cities game images and custom Mods are copyright 2008-2021 by Archangel, Archangel Michael, Archangel Heavenweb and Michael Dale McCart, with exceptions for the few instances where the images and Scripts are part of the original Dragon Knight (See Original Dragon Knight Copyright below).
+
 
 
 ## #################### ##
